@@ -14,3 +14,5 @@
 [droidcon-dagger-livehacking](https://github.com/partition/droidcon-dagger-livehacking)  
 [kotlin-demo-droidcon-krakow-2015](https://github.com/AntonRutkevich/kotlin-demo-droidcon-krakow-2015)  
 [Droidcon-India-2015](https://github.com/IsUncommon/Droidcon-India-2015)  
+[DroidconfrDataBinding](https://github.com/Koridev/DroidconfrDataBinding)  
+[droidcon-android-espresso](https://github.com/xrigau/droidcon-android-espresso)  
