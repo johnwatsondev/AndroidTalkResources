@@ -11,3 +11,6 @@
 [droidcontn-2016](https://github.com/Nilhcem/droidcontn-2016)  
 [droidcon2015](https://github.com/neciu/droidcon2015)  
 [CustomViewsDroidCon](https://github.com/naman14/CustomViewsDroidCon)  
+[droidcon-dagger-livehacking](https://github.com/partition/droidcon-dagger-livehacking)  
+[kotlin-demo-droidcon-krakow-2015](https://github.com/AntonRutkevich/kotlin-demo-droidcon-krakow-2015)  
+[Droidcon-India-2015](https://github.com/IsUncommon/Droidcon-India-2015)  
